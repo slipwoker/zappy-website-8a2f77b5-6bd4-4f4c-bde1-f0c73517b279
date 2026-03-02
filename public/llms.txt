@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Join Erin and Sophie&#39;s adorable 6 month anniversary celebration filled with Sanrio-inspired kawaii vibes, pastel dreams, and heartwarming moments!
+
+### Our Story
+https://example.com/our-story
+Discover how Erin and Sophie&#39;s romance blossomed into six magical months of adventures, laughter, and endless cuteness. Read our heartwarming story now!
+
+### Gallery
+https://example.com/gallery
+Browse through Erin and Sophie&#39;s sweetest moments captured in an adorable Sanrio-themed photo gallery celebrating their 6 month anniversary together!
+
+### Contact
+https://example.com/contact
+Want to celebrate with Erin and Sophie? Drop a sweet message, share your congratulations, or connect with us to join our kawaii anniversary party!
+
+### Products
+https://example.com/products
+Our Products - Erin & Sophie
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Erin & Sophie
+
+### Category
+https://example.com/category/:slug
+Products - Erin & Sophie
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
